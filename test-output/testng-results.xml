@@ -2,24 +2,24 @@
 <testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="100765" started-at="2019-02-04T08:45:36Z" finished-at="2019-02-04T08:47:16Z">
+  <suite name="Default suite" duration-ms="171612" started-at="2019-02-04T08:59:00Z" finished-at="2019-02-04T09:01:51Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="100765" started-at="2019-02-04T08:45:36Z" finished-at="2019-02-04T08:47:16Z">
+    <test name="Default test" duration-ms="171612" started-at="2019-02-04T08:59:00Z" finished-at="2019-02-04T09:01:51Z">
       <class name="Test.Inventory_Inquiry">
-        <test-method status="PASS" signature="TC001_Verify_BasicSearch()[pri:1, instance:Test.Inventory_Inquiry@701fc37a]" name="TC001_Verify_BasicSearch" duration-ms="43137" started-at="2019-02-04T08:45:36Z" finished-at="2019-02-04T08:46:19Z">
+        <test-method status="PASS" signature="TC001_Verify_BasicSearch()[pri:1, instance:Test.Inventory_Inquiry@701fc37a]" name="TC001_Verify_BasicSearch" duration-ms="52411" started-at="2019-02-04T08:59:00Z" finished-at="2019-02-04T08:59:52Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TC001_Verify_BasicSearch -->
-        <test-method status="PASS" signature="TC002_Verify_Searched_Productdetails()[pri:2, instance:Test.Inventory_Inquiry@701fc37a]" name="TC002_Verify_Searched_Productdetails" duration-ms="13773" started-at="2019-02-04T08:46:19Z" finished-at="2019-02-04T08:46:33Z">
+        <test-method status="PASS" signature="TC002_Verify_Searched_Productdetails()[pri:2, instance:Test.Inventory_Inquiry@701fc37a]" name="TC002_Verify_Searched_Productdetails" duration-ms="14087" started-at="2019-02-04T08:59:52Z" finished-at="2019-02-04T09:00:06Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TC002_Verify_Searched_Productdetails -->
-        <test-method status="PASS" signature="TC003_Verify_AdvanceSearch()[pri:3, instance:Test.Inventory_Inquiry@701fc37a]" name="TC003_Verify_AdvanceSearch" duration-ms="43757" started-at="2019-02-04T08:46:33Z" finished-at="2019-02-04T08:47:16Z">
+        <test-method status="PASS" signature="TC003_Verify_AdvanceSearch()[pri:3, instance:Test.Inventory_Inquiry@701fc37a]" name="TC003_Verify_AdvanceSearch" duration-ms="104872" started-at="2019-02-04T09:00:06Z" finished-at="2019-02-04T09:01:51Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TC003_Verify_AdvanceSearch -->
-        <test-method status="PASS" signature="reporting()[pri:0, instance:Test.Inventory_Inquiry@701fc37a]" name="reporting" is-config="true" duration-ms="31" started-at="2019-02-04T08:47:16Z" finished-at="2019-02-04T08:47:16Z">
+        <test-method status="PASS" signature="reporting()[pri:0, instance:Test.Inventory_Inquiry@701fc37a]" name="reporting" is-config="true" duration-ms="157" started-at="2019-02-04T09:01:51Z" finished-at="2019-02-04T09:01:51Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- reporting -->
